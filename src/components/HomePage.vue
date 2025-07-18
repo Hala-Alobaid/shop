@@ -30,9 +30,9 @@ const handleCardClick = (route) => {
       </a>
       <div class="collapse navbar-collapse">
         <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
-          <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Homeeeeeeeeeeeeeeeeeeeeeeeee</a></li>
           <li class="nav-item"><a class="nav-link" href="#">Shop</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Aboutttttttttt</a></li>
           <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
         </ul>
         <div>
